@@ -1,0 +1,1 @@
+# Go Bindata for Gitote
